@@ -50,10 +50,10 @@
       $this->utc_timestamp = $utc_timestamp;
     }
      public function setTimezoneOffset($time_zone_offset){
-      $this->ime_zone_offset = $offset;
+      $this->time_zone_offset = $offset;
     }
      public function getTimezoneOffset(){
-      $this->ime_zone_offset = $offset;
+      $this->time_zone_offset = $offset;
     }
 
 
